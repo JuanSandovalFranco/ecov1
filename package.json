@@ -1,0 +1,31 @@
+{
+  "name": "e-commerce",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "backblaze-b2": "^1.7.0",
+    "eslint": "8.35.0",
+    "eslint-config-next": "13.2.3",
+    "formidable": "^2.1.1",
+    "framer-motion": "^10.2.3",
+    "mongoose": "^6.9.2",
+    "next": "13.2.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.8.0",
+    "slugify": "^1.6.5",
+    "styled-components": "^5.3.8",
+    "validator": "^13.9.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.7"
+  }
+}
